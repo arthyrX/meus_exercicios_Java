@@ -40,6 +40,8 @@ public class CalculoAreasMultiplas {
 
 
 
+
+
         sc.close();
     }
 }
